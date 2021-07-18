@@ -1,2 +1,3 @@
 instance
 flaskr/__pycache__
+.DS_Store
